@@ -10,3 +10,10 @@ body {
   top: 0;
   background-color: white;
 }
+
+.port-logo img {
+  cursor: pointer;
+  background-color: white;
+  width: 55px;
+  margin-top: 5px;
+}
