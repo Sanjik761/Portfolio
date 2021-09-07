@@ -138,3 +138,10 @@ section {
   margin: 110px 50px 0 200px;
   border-radius: 50%;
 }
+
+.user-title {
+  float: right;
+  width: 700px;
+  margin: 25px 0 0 0;
+}
+
