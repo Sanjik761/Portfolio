@@ -177,3 +177,7 @@ section {
   font-size: 22px;
   margin-top: -20px;
 }
+
+.aboutPortBottom video {
+  margin: 0 20px 20px 50px;
+}
