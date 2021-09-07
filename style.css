@@ -124,3 +124,8 @@ section {
   background-size: cover;
   position: relative;
 }
+
+.absolut-div {
+  position: absolute;
+}
+
