@@ -14,3 +14,11 @@ home.addEventListener('click', () => {
   contactPort.style.cssText = "display: none"
   homePort.style.cssText = "display: block"
 });
+
+about.addEventListener('click', () => {
+  homePort.style.cssText = "display: none"
+  homeSec.style.cssText = "display: none"
+  aboutPort.style.cssText = "display: block; background: none"
+  contactPort.style.cssText = "display: none"
+  footer.style.cssText = "display: flex; justify-content: space-between; margin: 0 50px; color: rgb(100, 100, 100); font-family: sans-serif; font-size: 15px;"
+});
