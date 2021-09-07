@@ -77,3 +77,9 @@ body {
   opacity: 1;
   transform: translateY(5px);
 }
+
+@keyframes pulse-grow {
+  to {
+    transform: scale(1.2);
+  }
+}
