@@ -17,3 +17,8 @@ body {
   width: 55px;
   margin-top: 5px;
 }
+
+.header-center ul li, 
+.header-right ul li {
+  display: inline;
+}
