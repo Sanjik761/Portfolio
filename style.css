@@ -98,3 +98,8 @@ body {
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
+
+.header-right a:hover,
+.header-center a:hover {
+  color: black;
+}
