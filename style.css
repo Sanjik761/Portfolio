@@ -68,3 +68,7 @@ body {
   transition-duration: 0.3s;
   transition-property: transform opacity;
 }
+
+.float-shadow:hover {
+  transform: translateY(-5px);
+}
