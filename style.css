@@ -165,3 +165,9 @@ section {
   background-color: darkgrey;
   margin-top: -25px;
 }
+
+.aboutPortTop h1 {
+  font-family: sans-serif;
+  font-size: 32px;
+  letter-spacing: 2px;
+}
