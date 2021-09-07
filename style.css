@@ -83,3 +83,10 @@ body {
     transform: scale(1.2);
   }
 }
+
+.fab {
+  display: inline-block;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
