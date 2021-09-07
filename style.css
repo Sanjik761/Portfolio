@@ -115,3 +115,12 @@ body {
 .fa-twitter:hover {
   color: #00acee;
 }
+
+section {
+  background-image: url("https://cdn2.hubspot.net/hubfs/202339/canvas/images/parallax/Website-Design-Background.png");
+  height: 542px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
