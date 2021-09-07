@@ -189,3 +189,7 @@ section {
 .contact-div ul li {
   display: block;
 }
+
+.contact-div ul li a:hover {
+  text-decoration: underline;
+}
