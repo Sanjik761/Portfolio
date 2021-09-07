@@ -159,3 +159,9 @@ section {
   display: none;
 }
 
+.aboutPortTop {
+  text-align: center;
+  opacity: 0.4;
+  background-color: darkgrey;
+  margin-top: -25px;
+}
