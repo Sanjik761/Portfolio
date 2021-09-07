@@ -201,3 +201,9 @@ section {
   text-align: center;
   font-family: sans-serif;
 }
+
+.contact-div ul li a img {
+  margin: 60px 15px 0 40px;
+  width: 40px;
+  border-radius: 5px;
+}
