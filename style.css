@@ -72,3 +72,8 @@ body {
 .float-shadow:hover {
   transform: translateY(-5px);
 }
+
+.float-shadow:hover:before {
+  opacity: 1;
+  transform: translateY(5px);
+}
