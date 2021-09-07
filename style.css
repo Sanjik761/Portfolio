@@ -152,3 +152,10 @@ section {
   line-height: 33px;
   font-family: sans-serif;
 }
+
+.contactPort,
+.aboutPort,
+.homePort {
+  display: none;
+}
+
