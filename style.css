@@ -171,3 +171,9 @@ section {
   font-size: 32px;
   letter-spacing: 2px;
 }
+
+.aboutPortTop p {
+  font-family: sans-serif;
+  font-size: 22px;
+  margin-top: -20px;
+}
