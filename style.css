@@ -129,3 +129,6 @@ section {
   position: absolute;
 }
 
+.user-img {
+  float: left;
+}
