@@ -34,3 +34,8 @@ body {
 .header-right ul {
   margin-top: 20px;
 }
+
+.header-right ul li {
+  margin: 10px;
+}
+
