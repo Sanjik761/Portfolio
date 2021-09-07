@@ -132,3 +132,9 @@ section {
 .user-img {
   float: left;
 }
+
+.user-img img {
+  width: 300px;
+  margin: 110px 50px 0 200px;
+  border-radius: 50%;
+}
