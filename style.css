@@ -193,3 +193,11 @@ section {
 .contact-div ul li a:hover {
   text-decoration: underline;
 }
+
+.contact-div ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 22px;
+  text-align: center;
+  font-family: sans-serif;
+}
