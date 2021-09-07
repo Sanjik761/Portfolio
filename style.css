@@ -207,3 +207,10 @@ section {
   width: 40px;
   border-radius: 5px;
 }
+
+.end {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 60px;
+}
+
