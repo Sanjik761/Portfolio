@@ -103,3 +103,7 @@ body {
 .header-center a:hover {
   color: black;
 }
+
+.fa-facebook-f:hover {
+  color:  #3b5998;
+}
