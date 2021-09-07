@@ -185,3 +185,7 @@ section {
 .contact-div {
   margin-top: -16px;
 }
+
+.contact-div ul li {
+  display: block;
+}
