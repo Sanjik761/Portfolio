@@ -39,3 +39,7 @@ body {
   margin: 10px;
 }
 
+.header-right a {
+  color: rgb(100, 100, 100);
+  font-size: 22px;
+}
